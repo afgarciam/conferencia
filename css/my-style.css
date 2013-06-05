@@ -54,6 +54,21 @@
 
 }
 
+.back-cloud{
+	background-color: #EBEBEB;
+	border: solid 2px #999999;
+	border-radius: 5px;
+	opacity: 0;
+}
+
+.font-mini{
+	font-size: 15px;
+}
+
+.font-small{
+	font-size: 25px;
+}
+
 .glass{
 	background-image: url('../images/glass.png');
 	background-size: 700px;
